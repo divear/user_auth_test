@@ -4,14 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lukascobit/jwt_test.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -20,7 +18,6 @@
   "homepage": "https://github.com/lukascobit/jwt_test#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^2.0.7",
-    "pg": "^8.6.0"
+    "nodemon": "^2.0.7"
   }
 }
